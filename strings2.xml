@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="five">五</string>
+	<string name="six">六</string>
+	<string name="seven">七</string>
+	<string name="eight">八</string>
+	<string name="nine">九</string>
+	<string name="ten">十</string>
+	
+	<string-array name="habit_list">
+		<item>左手</item>
+		<item>右手</item>
+	</string-array>
+
+	<string-array name="days">
+		<item>mon</item>
+		<item>tue</item>
+		<item>wed</item>
+	</string-array>
+	
+	 <string-array name="sit_list">
+        <item>30分钟</item>
+        <item>60分钟</item>
+        <item>90分钟</item>
+    </string-array>
+</resources>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="countries_array">
+		<item>china</item>
+		<item>usa</item>
+	</string-array>
+
+	<string-array name="days">
+		<item>周一</item>
+		<item>周二</item>
+		<item>周三</item>
+	</string-array>
+
+	<string-array name="habit_list">
+		<item>左手</item>
+		<item>右手</item>
+	</string-array>
+
+	<string name="one">one</string>
+	<string name="two">two</string>
+	<string name="three">three</string>
+	<string name="four">four</string>
+	<string name="five">five</string>
+	<string name="six">six</string>
+
+</resources>
+
